@@ -3697,7 +3697,7 @@ dependencies = [
 
 [[package]]
 name = "tm-switcher-host"
-version = "0.1.0"
+version = "1.11.7"
 dependencies = [
  "anyhow",
  "cocoa",
